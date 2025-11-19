@@ -32,5 +32,5 @@ for i in cpf:
 rest_str_2 = str(rest_2)
 cpf += rest_str_2
 
-print(f"first digit: {rest_1}", f"and the second digit: {rest_2}", sep="-")
+print(f"first digit: {rest_1}", f"and the second digit: {rest_2}", sep2="-")
 print(f"the full cpf is: {cpf}")
